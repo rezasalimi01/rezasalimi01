@@ -16,7 +16,11 @@
 
 ###
 
-<h4 align="left">• 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀<br><br>• 📫 How to reach me : <br>📧 rezasalimiofficial@gmail.com</h4>
+<h4 align="left">• 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀<br><br>• 📫 How to reach me : <br><br>📧 rezasalimiofficial@gmail.com</h4>
+
+###
+
+<p align="left"></p>
 
 ###
 
