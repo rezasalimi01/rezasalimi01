@@ -20,7 +20,7 @@
 <br />
 <p align="center">
 
- - <i>🌱🧑🏻‍💻 I'm currently learning Python & Django🌀</i>
+ - <i>🌱🧑🏻‍💻 I'm currently learning Python & Django</i>
  
  - <i>📫 How to reach me :</i>
    
@@ -70,7 +70,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=rezar" height="200" alt="stats graph"  />
 
 
