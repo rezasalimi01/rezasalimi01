@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">A Backend Developer From Iran 🇮🇷</h2>
+<h1 align="center">A Backend Developer From Iran 🇮🇷</h1>
 
 ###
 
@@ -14,7 +12,11 @@
 
 ###
 
-<h3 align="left">• 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀<br><br>• 📫 How to reach me : <br>📧 rezasalimiofficial@gmail.com</h3>
+<h2 align="left">🙋🏻‍♂️ About me :</h2>
+
+###
+
+<h4 align="left">• 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀<br><br>• 📫 How to reach me : <br>📧 rezasalimiofficial@gmail.com</h4>
 
 ###
 
@@ -59,3 +61,4 @@
 </div>
 
 ###
+Profile Readme Generator
