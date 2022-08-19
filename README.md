@@ -69,6 +69,8 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/rezar/rezar/blob/output/snake.svg" alt="Snake animation" />
+p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 ###
