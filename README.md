@@ -16,7 +16,7 @@
 <h3 align="left">🙋🏻‍♂️ About me:</h3>
 
 ###
-
+<p align="left">ㅤ
 - 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀
 - 📫 How to reach me :
 - 📧 rezasalimiofficial@gmail.com
