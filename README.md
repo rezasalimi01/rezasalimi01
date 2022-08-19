@@ -77,6 +77,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/rezar/rezar/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Rezarl9pc/Rezarl9pc/main/snake.yml" alt="Snake animation" />
 
 ###
