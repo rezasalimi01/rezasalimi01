@@ -48,6 +48,9 @@
   <a href="https://www.linkedin.com/in/reza-salimi-bb718b247" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
+  <a href="https://t.me/rzaw_sa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo"  />
+  </a>
   <a href="https://www.instagram.com/rzaw_sa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
   </a>
@@ -62,8 +65,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=rezar" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=rezar" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=rezar" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<img href="https://raw.githubusercontent.com/rezar/rezar/blob/output/snake.svg" alt="Snake animation" />
+
+###
+Profile Readme Generator
