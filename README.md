@@ -8,7 +8,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rezar.rezar&right_color=coral"  />
 </div>
 
