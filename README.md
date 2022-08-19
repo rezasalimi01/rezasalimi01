@@ -63,20 +63,12 @@
 ###
 
 <div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=oip83ebxidfilvv696djn0v46">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oip83ebxidfilvv696djn0v46" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=rezar" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=rezar" height="150" alt="languages graph"  />
 </div>
 
-### 
+###
 
-<img href="https://raw.githubusercontent.com/Rezarl9pc/Rezarl9pc/main/snake.yml" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/rezar/rezar/blob/output/snake.svg" alt="Snake animation" />
 
 ###
