@@ -17,9 +17,9 @@
 
 ###
 <p align="left">ㅤ
-- 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀
-- 📫 How to reach me :
-- 📧 rezasalimiofficial@gmail.com
+- 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀</p>
+- 📫 How to reach me :</p>
+- 📧 rezasalimiofficial@gmail.com</p>
 
 ###
 
