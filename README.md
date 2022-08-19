@@ -68,6 +68,8 @@
 </div>
 
 ###
+<h2 align="center">🤝 Support</h2>
+
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ in Iran</p>
