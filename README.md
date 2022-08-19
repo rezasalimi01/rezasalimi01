@@ -16,9 +16,15 @@
 <h3 align="left">🙋🏻‍♂️ About me:</h3>
 
 ###
-<p align="left">• 🌱🧑🏻‍💻 I'm currently learning Python & Django 🌀<br><br>• 📫 How to reach me :
+<p align="center">
+  <h3> I'm 19 years old Self-taught Full-Stack developer from India.</h3>
+</p>
+
+ - <i>🌱🧑🏻‍💻 I'm currently learning Python & Django🌀</i>
+ 
+ - <i>📫 How to reach me :</i>
    
-- 📧 rezasalimiofficial@gmail.com
+ - 📧 rezasalimiofficial@gmail.com
 
 ###
 
