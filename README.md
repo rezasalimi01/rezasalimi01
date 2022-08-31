@@ -94,5 +94,5 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 <p align="center">
-        <img src="https://user-images.githubusercontent.com/95372383/187769948-67e450ef-c54c-4f40-867f-03c751d96899.png" />
+        <img src="https://user-images.githubusercontent.com/95372383/187775617-b69117d2-ee1d-44b5-adb9-4d7ba24e01db.jpg" />
 
