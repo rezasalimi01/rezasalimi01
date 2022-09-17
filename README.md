@@ -96,3 +96,4 @@
 <p align="center">
         <img src="https://user-images.githubusercontent.com/95372383/187775617-b69117d2-ee1d-44b5-adb9-4d7ba24e01db.jpg" />
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=oip83ebxidfilvv696djn0v46&cover_image=true&theme=novatorem&bar_color=20b153&bar_color_cover=true)](https://github.com/rezasalimi01)
