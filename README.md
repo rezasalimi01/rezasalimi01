@@ -6,6 +6,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezasalimii01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezasalimiofficial@gmail.com)
 
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhpYnlmb2RhcWZnOHlvZmgyYmkxbDlwaWIxbDU0bDF1MmF6OXdteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif"  />
+
+###
+
 # 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
