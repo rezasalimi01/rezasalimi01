@@ -1,10 +1,26 @@
 # 💫 About Me:
 
 👋 Hi, I'm Reza, a passionate Frontend Developer with a love for crafting beautiful, responsive, and user-friendly web experiences. I specialize in turning ideas into interactive and dynamic interfaces using modern technologies like HTML, CSS, JavaScript, React, and Next.js.
+<br/>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezasalimii01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezasalimiofficial@gmail.com)
+<br/>
+
+<div align="left">
+  <a style="text-decoration: none;" href="rezasalimiofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+  </a>
+  <a style="text-decoration: none;" href="http://t.me/rezasalimi01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="27" alt="telegram logo"  />
+  </a>
+  <a style="text-decoration: none;" href="https://instagram.com/rezasalimii01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
+  </a>
+</div>
+
+<br/>
+
 
 # 💻 Tech Stack:
 
@@ -18,17 +34,17 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br/>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>
 <br/>
 <br/>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rezasalimi01&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rezasalimi01&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rezasalimi01&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalimi01&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Dev Quote
