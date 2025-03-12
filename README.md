@@ -8,7 +8,7 @@
 <br/>
 
 <div align="left">
-  <a style="text-decoration: none;" href="rezasalimiofficial@gmail.com" target="_blank">
+  <a style="text-decoration: none;" href="mailto:rezasalimiofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
   </a>
   <a style="text-decoration: none;" href="http://t.me/rezasalimi01" target="_blank">
